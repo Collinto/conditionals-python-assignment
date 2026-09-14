@@ -10,7 +10,6 @@ This repository contains my submission for the conditionals Python assignment.
 - Logical operators (`and`, `or`, `not`)
 - Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
 - Nested conditionals
-- Ternary operators
 
 ## Assignment Submission
 
