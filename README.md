@@ -1,6 +1,6 @@
 # Conditionals Python Assignment
 
-This assignment focuses on mastering the use of conditional statements in Python.
+This repository contains my submission for the conditionals Python assignment.
 
 ## Topics Covered
 
@@ -12,18 +12,14 @@ This assignment focuses on mastering the use of conditional statements in Python
 - Nested conditionals
 - Ternary operators
 
-## Getting Started
+## Assignment Submission
 
-Clone this repository and complete the exercises in the provided Python files.
+This repository is used to submit completed assignment exercises to my tutor.
 
 ## Requirements
 
 - Python 3.x
 
-## Instructions
+## How to Run
 
 Follow the comments in each Python file to complete the exercises. Test your code to ensure it works correctly.
-
-## Submission
-
-Commit your completed work to this repository.
